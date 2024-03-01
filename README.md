@@ -38,6 +38,10 @@ This project implements a simple Named Entity Recognition (NER) model using Pyth
 4. Access the application through your web browser at `http://localhost:5000`.
 5. Input text into the provided textbox and submit to view the identified entities highlighted within the output.
 
+**Contributors:**
+
+This project was a collaborative effort, and we'd like to acknowledge the contributions of Sandhya Bhujbal and Sudip Joshi. Their dedication and expertise were invaluable in developing and refining the NER model and Flask interface. Their commitment to excellence has greatly enhanced the quality and functionality of this project.
+
 **Contributing:**
 
 Contributions to this project are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request or open an issue on the GitHub repository.
