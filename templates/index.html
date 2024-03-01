@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Named Entity Recognition</h1>
+    <form action="/ner" method="post">
+        <textarea name="text" rows="10" cols="50"></textarea>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    <h2>Named Entities:</h2>
+    <div class="highlighted-text">
+        {{ result | safe }}
+    </div>
+</body>
+</html>
+

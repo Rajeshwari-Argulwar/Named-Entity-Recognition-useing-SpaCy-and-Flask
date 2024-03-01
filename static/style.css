@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+textarea {
+    width: 80%;
+}
+
+h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.highlighted-text {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.PERSON { background-color: yellow; font-weight: bold; }
+.ORG { background-color: cyan; font-weight: bold; }
+.GPE { background-color: pink; font-weight: bold; }
+/* Add more entity types and colors as needed */
