@@ -4,13 +4,13 @@ This project implements a simple Named Entity Recognition (NER) model using Pyth
 
 **Screenshots:**
 
-1. ![Interface](Interface.png)
+ ![Interface](Interface.png)
    - This screenshot showcases the main interface of the application, where users can input text for entity recognition.
 
-2. ![Interface with Input](Input.png)
+ ![Interface with Input](Input.png)
    - This screenshot displays the interface with text input provided in the designated box.
 
-3. ![Output with Highlighted Entities](Output1.png)
+ ![Output with Highlighted Entities](Output1.png)
    ![Output with Highlighted Entities](Output2.png)
    - Here, the output of the NER model is presented with the identified entities highlighted within the same paragraph.
 
